@@ -1,0 +1,5 @@
+## Complete disagreement:
+I am pleasently surprised that there was very few posts with complete disagreement, only 5/100. For these cases, some were clearly due to the lack of information from the title. My taxonomy required a certain amount of information to be effective and some of the titles were simply too vague to be clearly put in a category. The other 2 cases of complete disagreement were due to the lack of understanding of certain words/slang used in the title.
+
+## 2/3 agreement:
+I did however have many examples with only 2/3 agreement. I noticed that the vast majority of those cases were due to a bad coder, as the agreement is between me and coder 1. It is also important to mention that both coders did the coding at night after a full workday, so they were not always consistent in their answers due to tiredness.
